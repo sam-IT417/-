@@ -9,10 +9,10 @@
     →
 時間平滑
 
-（１）相機參數估計
-    a. 特徵點偵測（SuperPoint）  
-    b. 特徵點匹配（SuperGlue）  
-    c. 幾何關係估計（Essential / Fundamental Matrix）  
-    d. 相機姿態恢復（Recover Camera Pose）  
-    e. Structure-from-Motion（SfM）與參數估計  
-    f. 相機模型（Pinhole Camera Model）  
+（１）相機參數估計  
+      a. 特徵點偵測（SuperPoint）  
+      b. 特徵點匹配（SuperGlue）  
+      c. 幾何關係估計（Essential / Fundamental Matrix）  
+      d. 相機姿態恢復（Recover Camera Pose）  
+      e. Structure-from-Motion（SfM）與參數估計  
+      f. 相機模型（Pinhole Camera Model）  
